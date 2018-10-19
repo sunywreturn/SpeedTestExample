@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpeedTestExample</string>
+    <string name="current_speed">当前每秒带宽</string>
+    <string name="start_speed_test">开始测速</string>
+    <string name="speed_testing">测速中&#8230;</string>
+    <string name="retry_speed_test">再次测速</string>
+</resources>
